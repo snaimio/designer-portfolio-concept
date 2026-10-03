@@ -3,6 +3,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Git LFS](https://img.shields.io/badge/Git%20LFS-Enabled-orange?style=for-the-badge&logo=gitlfs&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 ![Design System](https://img.shields.io/badge/Style-Minimalist%20Monochrome-black?style=for-the-badge)
 ![Specialization](https://img.shields.io/badge/Focus-UI%2FUX%20%7C%20Branding%20%7C%20Vector%20Art-purple?style=for-the-badge)
 
@@ -201,6 +202,7 @@ designer-portfolio-concept/
 │   └── observatory-vector-illustration.ai    # Vector poster illustration master (Git LFS)
 ├── .gitattributes                            # Git LFS tracking configuration
 ├── .gitignore                                # Environment & OS exclusion rules
+├── LICENSE                                   # MIT License
 └── README.md                                 # Comprehensive project documentation
 ```
 
@@ -224,4 +226,6 @@ When publishing this case study across Behance, Dribbble, LinkedIn, or personal 
 
 ## 📄 License & Attribution
 
-Designed and maintained by [snaimio](https://github.com/snaimio). All source assets, master PSDs, and vector AI files are structured for portfolio presentation, case study analysis, and professional reference.
+This project is open source and available under the terms of the **[MIT License](LICENSE)**.
+
+Copyright (c) 2026 **Sheikh Naim** ([@snaimio](https://github.com/snaimio)). All source design assets, master PSDs, and vector AI illustrations are provided for portfolio presentation, study, and creative reference.
